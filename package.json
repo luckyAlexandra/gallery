@@ -1,0 +1,28 @@
+{
+  "name": "gallery",
+  "version": "1.0.0",
+  "description": "a gallery of images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gallery",
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luckyAlexandra/gallery.git"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "vue": "^2.1.10"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "webpack": "^2.2.1"
+  },
+  "author": "alexandra",
+  "license": "ISC"
+}
